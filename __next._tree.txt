@@ -1,0 +1,6 @@
+:HL["/gym-profuzion/_next/static/chunks/03-g1q4ikf~pc.css","style"]
+:HL["https://gymprofuzion.com/wp-content/uploads/2022/10/gymp-logo-2022.svg","image"]
+:HL["https://gymprofuzion.com/wp-content/uploads/2022/08/gymp-interieur-vue-globale-600x400.jpg","image"]
+:HL["https://gymprofuzion.com/wp-content/uploads/2022/08/gymp-interieur-dumbells-600x400.jpeg","image"]
+:HL["https://gymprofuzion.com/wp-content/uploads/2022/08/gymp-interieur-entree-principale-600x400.jpeg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"n5QnRb_HCLohLO0S6UzGV"}
